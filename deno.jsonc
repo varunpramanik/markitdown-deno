@@ -1,0 +1,5 @@
+{
+    "tasks": {
+        "convert": "deno run -WRN markitdown-deno.ts"
+    }
+}
